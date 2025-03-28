@@ -1,0 +1,7 @@
+Manifest 
+-information about the extension 
+-json format 
+-mandatory
+ -Manifest Version
+ - Name of the extension
+ - Version of the ext 

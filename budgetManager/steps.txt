@@ -1,0 +1,5 @@
+1. Browser Action
+2. Accept spending 
+3. Display total spending 
+4. limit - Notify if reached 
+5. Option to reset total and limit 

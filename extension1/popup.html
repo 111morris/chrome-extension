@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <title>Document</title>
+ <link rel="stylesheet" type="text/css" href="styles/popup.css">
 </head>
+
 <body>
- <h2 id="greating">
-  hello morris
- </h2>
- <script src="scripts/script.js"></script>
+
+ <h2 id="greeting">Hello</h2>
+ <input type="text" id="name" placeholder="Enter something">
+ <button id="btn">Click me</button>
+ <div id="result"></div>
+
+ <!-- Load jQuery first, then your custom script -->
+ <script src="scripts/jquery-3.7.1.min.js"></script>
+ <script src="scripts/popup.js"></script>
 </body>
+
 </html>
